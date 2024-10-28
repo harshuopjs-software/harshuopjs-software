@@ -1,6 +1,7 @@
 
 # 👋 Hello, I'm Harsh Kumar Singh!
 
+Firstly, I am sorry for the problem i lost My old account due to my mistake I am trying to recover that 
 Welcome to my GitHub profile!  
 I'm a **driven and detail-oriented Cybersecurity Analyst and Web Developer**, passionate about building a secure digital future. Currently pursuing my **B.Tech in Computer Science and Engineering** at JIMS, with an expected graduation in 2027.
 
