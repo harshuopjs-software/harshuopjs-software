@@ -24,12 +24,12 @@ I'm excited to connect with like-minded professionals, share knowledge, and expl
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh%20Kumar%20Singh-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/engi-harsh)
 [![GitHub](https://img.shields.io/badge/GitHub-%40harshuopjs--software-black?style=flat-square&logo=github)](https://github.com/harshuopjs-software)
-[![Email](https://img.shields.io/badge/Email-harshuopjs%40gmail.com-red?style=flat-square&logo=gmail)](mailto:harshuopjs@gmail.com)
+[![Email](https://img.shields.io/badge/Email-harshuopjs%40gmail.com-red?style=flat-square&logo=gmail)](mailto:founder@kridavista.in)
 
 ## 🌟 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshuopjs-software&show_icons=true&hide_border=true&count_private=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshuopjs-software&layout=compact&hide_border=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshuopjs&layout=compact&hide_border=true&theme=radical)
 
 ## 🚀 Let's Shape the Future Together!
